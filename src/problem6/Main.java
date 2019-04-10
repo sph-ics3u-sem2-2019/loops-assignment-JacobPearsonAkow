@@ -16,7 +16,11 @@ public class Main {
 		 * hZebart
 		 */
 		Scanner in=new Scanner(System.in);
-
+		String name=in.nextLine();
+		
+		
+		
+		
 	}
 
 }
